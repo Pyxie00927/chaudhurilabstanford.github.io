@@ -1,0 +1,19 @@
+- name: Home
+  link: "/"
+  group: home
+
+- name: People
+  link: "/members"
+  group: members
+  
+- name: Publications
+  link: "/publications"
+  group: publications
+
+- name: News
+  link: "/news"
+  group: news
+
+- name: Contact
+  link: "/contact"
+  group: contact
